@@ -89,6 +89,7 @@ body{
 .albumcover > h1 {
 	background-image: url(../img/image1.jpeg);
 	background-size: 100vh 50vh;
+  text-shadow: 2px -2px white;
 	color: transparent;
 	-moz-background-clip: text;
 	-webkit-background-clip: text;
